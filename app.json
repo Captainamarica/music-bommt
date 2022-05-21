@@ -1,7 +1,7 @@
 {
   "name": "lavamusic",
   "description": "Lavamusic a powerful music Discord bot that need in your server",
-  "repository": "https://github.com/brblacky/lavamusic",
+  "repository": "https://github.com/Captainamarica/music-bommt",
   "logo": "https://media.discordapp.net/attachments/876035356460462090/888434725235097610/20210820_124325.png",
   "keywords": ["discord", "discordjs", "music"],
   "env": {    
