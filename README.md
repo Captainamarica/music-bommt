@@ -10,6 +10,7 @@
 [![MIT License][license-shield]][license-url]
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=lavamusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FCaptainamarica%2FRedMeme-Bomt&template=https://github.com/Captainamarica/music-bommt
 
 <!-- PROJECT LOGO -->
 <br />
