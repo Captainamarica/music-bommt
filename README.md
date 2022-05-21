@@ -97,6 +97,7 @@ Warning: Java v14 has issues with Lavalink.
 <!-- INSTALL -->
 ## 🚀 Installation from source
 ```
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FCaptainamarica%2FRedMeme-Bomt&template=https://github.com/Captainamarica/music-bommt
 git clone https://github.com/brblacky/lavamusic.git
 ```
 After cloning, run an
